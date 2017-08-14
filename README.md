@@ -80,4 +80,19 @@ En general, cada unidad dentro de una base de datos tiene un número o código d
   - UniProt: P02545
 
 ![Imagén 1](http://www.kegg.jp/tmp/mark_pathway150275328130820/hsa05410.png)
-Imagén 1: Hypertrophic cardiomyopathy (HCM)
+Imagén 1: Hypertrophic cardiomyopathy (HCM) pathaway.
+
+#### Responde
+
+¿En qué otras rutas metabólicas está involucrado tu gen?
+
+  - También forma parte de las rutas de apoptosis, *Hypertrophic cardiomyopathy (HCM), Arrhythmogenic right ventricular cardiomyopathy (ARVC),Dilated cardiomyopathy (DCM)*
+  
+¿Qué significan los cuadros verdes en el diagrama?
+
+  - Los cuadrados verdes son hipervínculos a las entradas de *GENES*, convirtiendo números K(KO identifiers) a identificadores de genes en las rutas de referencia, mostrando la precencia de genes en el genoma y cuan completo esta la vía.
+  
+¿Con qué rutas se cruza la ruta metabólica?
+
+  - La ruta se cruza con: la interacción *ECM-receptor*, la contracción muscular cardiaca, el sistema renina-angiotensina, la vía de señalización *Jak-STAT*, y la vía de señalización TGF-beta.
+  
