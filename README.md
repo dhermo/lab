@@ -29,4 +29,17 @@ Algunas de ellas son:
 
 1 LMNA, 3B, producida por una deleción 94 AAG
 	
-2 
+2 NM_170707.3(LMNA):c.178C>G que resulta en el cambio de una arginina por una glicina en la proteína resultante
+
+3 NM_170707.3(LMNA):c.11C>G donde se combia una prolina en la posicion 4 por una arginina.
+
+#### Responde
+
+¿Cuál es la longitud de tu gen?
+
+  - mi gen mide 57,544 pb.
+  
+¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?  
+
+  - 193 organismos tienen ortólogos con el gen humano de LMNA.
+  
