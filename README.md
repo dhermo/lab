@@ -78,3 +78,6 @@ En general, cada unidad dentro de una base de datos tiene un número o código d
   - Vega: OTTHUMG00000013961
   - Pharos: P02545(Tbio)
   - UniProt: P02545
+
+![Imagén 1](http://www.kegg.jp/tmp/mark_pathway150275328130820/hsa05410.png)
+Imagén 1: Hypertrophic cardiomyopathy (HCM)
