@@ -24,7 +24,9 @@ Es una enfermedad genética provocada por la mutación heterocigótica del gen d
   
     - Río arriba se encuentran los genes RAB25 y MEX3A, y río abajo SEMA4A y SLC25A44
     
-> ##### Este gen posee 635 variaciones génicas
+#### Este gen posee 635 variaciones génicas
 Algunas de ellas son:
-  1 LMNA, 3B, producida por una deleción 94 AAG
-  2 
+
+1 LMNA, 3B, producida por una deleción 94 AAG
+	
+2 
