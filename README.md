@@ -226,4 +226,7 @@ Descarga la secuencia en formato fasta y agrégala a tu informe
        
 ### Buscando artículos científicos en linea
 
+![Imagén2](https://raw.githubusercontent.com/dhermo/lab/master/alerta%20ncbi.png)
+Imagén 2: Alerta NCBI
+
 
