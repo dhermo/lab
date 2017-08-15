@@ -226,7 +226,24 @@ Descarga la secuencia en formato fasta y agrégala a tu informe
        
 ### Buscando artículos científicos en linea
 
-![Imagén2](https://raw.githubusercontent.com/dhermo/lab/master/alerta%20ncbi.png)
+![Imagén 2](https://raw.githubusercontent.com/dhermo/lab/master/alerta%20ncbi.png)
 Imagén 2: Alerta NCBI
 
+![Imagén 3](https://raw.githubusercontent.com/dhermo/lab/master/mail%20nature.png)
+Imagén 3: Mail de Nature
 
+#### Responde
+
+¿Son los resultados idénticos o no?
+
+  - No, los resultados con comillas fueron más acotados.
+  
+¿En qué cambiaron los resultados de la búsqueda?
+
+  - Cambio en el final de la frase, donde se añadio una palabra más.
+  
+¿Qué encuentras en los resultados? Prueba sin el rango también
+
+  - Al aumentar un rango, aumenta los resultados en google.
+  
+Para buscar artículos científicos también es útil restringir los resultados de búsqueda a tipos de archivo. Prueba con "human microbiome" filetype:pdf Describe tus resultados
