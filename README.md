@@ -96,3 +96,60 @@ Imagén 1: Hypertrophic cardiomyopathy (HCM) pathaway.
 
   - La ruta se cruza con: la interacción *ECM-receptor*, la contracción muscular cardiaca, el sistema renina-angiotensina, la vía de señalización *Jak-STAT*, y la vía de señalización TGF-beta.
   
+¿Cuántos "dominios" forman la anotación GO?
+
+  - la anotacion GO tiene tres dominios o funciones; 1- *Molecular function*, 2- *Cellular component* y 3- *Biological process*.
+
+Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096  
+¿A qué corresponde este término y qué información te entrega la página?
+
+  - Este término corresponde a información específica sobre el proceso glicolítico. Nos entrega información detallada en el primer link, anotaciones directas o indirectas de este proceso en el segundo link, y en el tercer link nos entregan todos los genes y productos de genes asociados.
+  
+Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece
+
+  - Proceso metabólica de ADP, proceso metabólica de ATP, proceso metabólico de coenzimas, metabólismos de organofosfatos, procesamiento metabólico de ácidos organicos, catabolismo de organismos simples, metabólismo de componentes glicosílicos, metabólismo de fosforo, metabolismo de nucleotidos nicotinamida y fosforilación nucleotidica.
+  
+  ### Descargando secuencias, convirtiendo formatos
+  
+  #### Responde
+  
+¿Cuántos items fueron encontrados? ¿cuántos en animales?
+
+  - Encontre 86,453 resultados para secuencias de DNA y RNA. De las cuales 12,034 fueron relacionadas con animales.
+  
+Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.
+Haz clic en la entrada para la secuencia de GAPDH de gallina. 
+¿Cuál es la longitud del gen? 
+
+  - La longitud es de 1,288 pb
+  
+¿Cuál es la referencia bibliográfica más reciente? 
+
+  - 9 de Julio del 2017
+  
+¿Cuál es el número de acceso?
+
+  - NM_204305.1
+  
+Descarga la secuencia en formato fasta y agrégala a tu informe
+
+           >NM_204305.1 Gallus gallus glyceraldehyde-3-phosphate dehydrogenase (GAPDH), mRNA
+           ACCTTCTCACTGCGCGCTGGGGCCGTTGACGTGCAGCAGGAACACTATAAAGGCGAGATGGTGAAAGTCG
+           GAGTCAACGGATTTGGCCGTATTGGCCGCCTGGTCACCAGGGCTGCCGTCCTCTCTGGCAAAGTCCAAGT
+           GGTGGCCATCAATGATCCCTTCATCGATCTGAACTACATGGTTTACATGTTCAAATATGATTCTACACAC
+           GGACACTTCAAGGGCACTGTCAAGGCTGAGAACGGGAAACTTGTGATCAATGGGCACGCCATCACTATCT
+           TCCAGGAGCGTGACCCCAGCAACATCAAATGGGCAGATGCAGGTGCTGAGTATGTTGTGGAGTCCACTGG
+           TGTCTTCACCACCATGGAGAAGGCTGGGGCTCATCTGAAGGGTGGTGCTAAGCGTGTTATCATCTCAGCT
+           CCCTCAGCTGATGCCCCCATGTTTGTGATGGGTGTCAACCATGAGAAATATGACAAGTCCCTGAAAATTG
+           TCAGCAATGCATCGTGCACCACCAACTGCCTGGCACCCTTGGCCAAGGTCATCCATGACAACTTTGGCAT
+           TGTGGAGGGTCTTATGACCACTGTCCATGCCATCACAGCCACACAGAAGACGGTGGATGGCCCCTCTGGG
+           AAGCTGTGGAGAGATGGCAGAGGTGCTGCCCAGAACATCATCCCAGCGTCCACTGGGGCTGCTAAGGCTG
+           TGGGGAAAGTCATCCCTGAGCTGAATGGGAAGCTTACTGGAATGGCTTTCCGTGTGCCAACCCCCAATGT
+           CTCTGTTGTTGACCTGACCTGCCGTCTGGAGAAACCAGCCAAGTATGATGATATCAAGAGGGTAGTGAAG
+           GCTGCTGCTGATGGGCCCCTGAAGGGCATCCTAGGATACACAGAGGACCAGGTTGTCTCCTGTGACTTCA
+           ATGGTGACAGCCATTCCTCCACCTTTGATGCGGGTGCTGGCATTGCACTGAATGACCATTTCGTCAAGCT
+           TGTTTCCTGGTATGACAATGAGTTTGGATACAGCAACCGTGTTGTGGACTTGATGGTCCACATGGCATCC
+           AAGGAGTGAGCCAGGCACACAGCCCCCCTGCTGCCTAGGGAAGCAGGACCCTTTGTTGGAGCCCCTGCTC
+           TTCACCACCGCTCAGTTCTGCATCCTGCAGTGAGAGGCCAGTTCTGTTCCCTTCTGTCTCCCCCACTCCT
+           CCAATTTCTTCCTCCACCTGGGGGAGGTGGGAGAGGCTGATAGAAACTGATCTGTTTGTGTACCACCTTA
+           CATCAATAAAAGTGTTCACCATCTGAAG
