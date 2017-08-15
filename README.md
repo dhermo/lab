@@ -246,4 +246,14 @@ Imagén 3: Mail de Nature
 
   - Al aumentar un rango, aumenta los resultados en google.
   
-Para buscar artículos científicos también es útil restringir los resultados de búsqueda a tipos de archivo. Prueba con "human microbiome" filetype:pdf Describe tus resultados
+Para buscar artículos científicos también es útil restringir los resultados de búsqueda a tipos de archivo. Prueba con "human microbiome" filetype:pdf. Describe tus resultados
+
+  - De la busqueda en schoolar, los resultados arrojados fueron todos en formato pdf.
+  
+¿En qué cambian los resultados de la búsqueda?
+
+  - Aparte de la diferencia en el número de resultados, en donde la búsqueda con el "+" arrojó 100,000 resultados más, se acotaron los resultados con el "-", filtrando así estos para encontrar otros resultados donde el termino *Temperature* no cumplía un rol importante.
+  
+Soil OR Human pathogens y luego trata con Soil AND Human pathogens. De nuevo, ¿en qué cambian los resultados de la búsqueda?  
+
+  - En este caso, el úso de *OR* restringió aun más la búesqueda, aun que de ninguna forma excluyó los terminos entre ellos de los que se buscaban.
